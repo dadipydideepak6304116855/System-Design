@@ -29,6 +29,7 @@ High-Level Design (HLD): Overall architecture, technologies, services, protocols
 Low-Level Design (LLD): Detailed class-level diagrams, database schema, APIs.
 
 📘 Examples of System Design Interviews
+
 Design YouTube
 
 Design Uber
