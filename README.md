@@ -2,7 +2,7 @@
 
 Welcome to the **System Design Concepts** repository!
 
-This repository serves as a foundational guide and reference for understanding how to **design large-scale systems** like YouTube, Gmail, Netflix, and other real-world applications. It includes both **high-level architecture** and **low-level component details**, commonly discussed in technical interviews at companies like Google, Amazon, and other top tech firms.
+This repository serves as a foundational guide and reference for understanding how to **design large-scale systems** like YouTube, Gmail, Netflix, and other real-world applications. It includes both **high-level architecture** and **low-level component details**.
 
 ---
 
