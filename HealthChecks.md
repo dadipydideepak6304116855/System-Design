@@ -49,10 +49,6 @@ GET /health/readiness    → 200 OK if app is ready to serve
 GET /health/startup      → 200 OK if app started properly
 
 In Spring Boot:
-
-yaml
-Copy
-Edit
 management:
   endpoints:
     web:
