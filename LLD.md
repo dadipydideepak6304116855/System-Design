@@ -45,18 +45,3 @@
 | **Includes**      | Tech stack, APIs, component diagrams         | Classes, DB schema, object interaction         |
 
 ---
-
-## 🔹 LLD Example: Food Delivery App (Order Service)
-
-### 📦 Classes
-
-```java
-class Order {
-  String orderId;
-  User customer;
-  List<Item> items;
-  Payment payment;
-
-  void placeOrder();
-  void cancelOrder();
-}
