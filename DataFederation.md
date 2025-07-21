@@ -37,3 +37,24 @@
 [Data Source A]      [Data Source B]      [API C]
       ↓                  ↓                  ↓
     Merge and transform → Unified Response → Client
+
+
+🔹 Benefits
+✅ No data duplication or synchronization needed
+
+✅ Real-time data access across systems
+
+✅ Reduces ETL complexity and latency
+
+✅ Supports quick integrations for analytics and apps
+
+🔹 Challenges
+⚠️ Slower performance for large joins
+
+⚠️ Source system dependencies (availability, latency)
+
+⚠️ Limited by the weakest data source
+
+⚠️ Difficult to optimize federated queries
+
+⚠️ Complex security and access control across sources
