@@ -46,3 +46,5 @@ Orders
 order_id | user_id | product
 101      | 1       | Laptop
 
+this is all about denormalization
+
